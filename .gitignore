@@ -9,7 +9,7 @@
 /tests/.pytest_cache/
 .pytest_cache
 
-/tests/allure_results/
+/tests/allure-results/
 
 .idea
 
